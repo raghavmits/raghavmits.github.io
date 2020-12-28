@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Raghav Mittal</title>
+    <link>https://raghavmits.github.io/portf/home/</link>
+    <description>Recent content in Homes on Raghav Mittal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Raghav Mittal</copyright>
+    <lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://raghavmits.github.io/portf/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://raghavmits.github.io/portf/home/about/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavmits.github.io/portf/home/about/</guid>
+      <description>Biography I am an Associate Consultant with M.N. Dastur &amp;amp; Co. in the Energy and Process Metallurgy division since 2018. I have worked on projects in Sustainability and Operations Improvement for some of the leading players in the Iron &amp;amp; Steel and Oil &amp;amp; Gas industries. Parallelly, I have been developing predictive models aimed at enhancing process control by leveraging machine learning techniques.
+Over the last two years, Dastur Energy has prioritized sustainability as the bedrock of new initiatives.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://raghavmits.github.io/portf/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavmits.github.io/portf/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://raghavmits.github.io/portf/home/contact/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavmits.github.io/portf/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

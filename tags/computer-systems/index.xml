@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer-systems on Raghav Mittal</title>
+    <link>https://raghavmits.github.io/portf/tags/computer-systems/</link>
+    <description>Recent content in computer-systems on Raghav Mittal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Raghav Mittal</copyright>
+    <lastBuildDate>Sun, 17 Dec 2017 18:06:49 +0530</lastBuildDate>
+    
+	<atom:link href="https://raghavmits.github.io/portf/tags/computer-systems/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ladle Circuit Optimization</title>
+      <link>https://raghavmits.github.io/portf/project/ladsim/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://raghavmits.github.io/portf/project/ladsim/</guid>
+      <description>Ladle circuit optimization through simulations for reduced refractory wear, energy consumption and carbon emissions</description>
+    </item>
+    
+  </channel>
+</rss>

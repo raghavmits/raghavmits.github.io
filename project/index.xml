@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Raghav Mittal</title>
+    <link>https://raghavmits.github.io/portf/project/</link>
+    <description>Recent content in Projects on Raghav Mittal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Raghav Mittal</copyright>
+    <lastBuildDate>Thu, 17 Dec 2020 18:06:49 +0530</lastBuildDate>
+    
+	<atom:link href="https://raghavmits.github.io/portf/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BF Thermal State Index</title>
+      <link>https://raghavmits.github.io/portf/project/tsi/</link>
+      <pubDate>Thu, 17 Dec 2020 18:06:49 +0530</pubDate>
+      
+      <guid>https://raghavmits.github.io/portf/project/tsi/</guid>
+      <description>Mentor: Dr. Saikat Chatterjee and Dr. Anand Senguttavan, Dastur Energy &amp;amp; Process Metallurgy
+Stretch: Oct&amp;rsquo;19 - Feb&amp;rsquo;20
+A dynamic model has been developed for online assessment of the thermal state of a Blast Furnace. Advanced statistical techniques such as Canonical Correlation, Principal Component Analysis, and Bootstrapping were used for analyzing a dataset from an Integrated Steel Plant. The idea was to come up with a tool to assist operators in ensuring better thermal stability of a Blast Furnace.</description>
+    </item>
+    
+    <item>
+      <title>Predictive Model for Ladle Desulfurization leveraging ML</title>
+      <link>https://raghavmits.github.io/portf/project/ladle_des/</link>
+      <pubDate>Tue, 17 Nov 2020 18:06:49 +0530</pubDate>
+      
+      <guid>https://raghavmits.github.io/portf/project/ladle_des/</guid>
+      <description>Developed a predictive model for minimizing Ladle Desulfurization cycle time and associated costs</description>
+    </item>
+    
+    <item>
+      <title>Adhesion Enhancement of Conductive Inks</title>
+      <link>https://raghavmits.github.io/portf/project/adhesion/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://raghavmits.github.io/portf/project/adhesion/</guid>
+      <description>Performed experiments to enhance adhesion of conductive inks on non-porous substrates for printing application</description>
+    </item>
+    
+    <item>
+      <title>Ladle Circuit Optimization</title>
+      <link>https://raghavmits.github.io/portf/project/ladsim/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://raghavmits.github.io/portf/project/ladsim/</guid>
+      <description>Ladle circuit optimization through simulations for reduced refractory wear, energy consumption and carbon emissions</description>
+    </item>
+    
+    <item>
+      <title>Predictive Tundish Open Eye Model</title>
+      <link>https://raghavmits.github.io/portf/project/toe/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://raghavmits.github.io/portf/project/toe/</guid>
+      <description>Developed a predictive tundish open eye (TOE) model using artificial neural networks</description>
+    </item>
+    
+  </channel>
+</rss>

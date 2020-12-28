@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Raghav Mittal</title>
+    <link>https://raghavmits.github.io/portf/tags/</link>
+    <description>Recent content in Tags on Raghav Mittal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Raghav Mittal</copyright>
+    <lastBuildDate>Thu, 17 Dec 2020 18:06:49 +0530</lastBuildDate>
+    
+	<atom:link href="https://raghavmits.github.io/portf/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>database</title>
+      <link>https://raghavmits.github.io/portf/tags/database/</link>
+      <pubDate>Thu, 17 Dec 2020 18:06:49 +0530</pubDate>
+      
+      <guid>https://raghavmits.github.io/portf/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>other</title>
+      <link>https://raghavmits.github.io/portf/tags/other/</link>
+      <pubDate>Thu, 17 Dec 2020 18:06:49 +0530</pubDate>
+      
+      <guid>https://raghavmits.github.io/portf/tags/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>https://raghavmits.github.io/portf/tags/machine-learning/</link>
+      <pubDate>Tue, 17 Nov 2020 18:06:49 +0530</pubDate>
+      
+      <guid>https://raghavmits.github.io/portf/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>process-modeling</title>
+      <link>https://raghavmits.github.io/portf/tags/process-modeling/</link>
+      <pubDate>Tue, 17 Nov 2020 18:06:49 +0530</pubDate>
+      
+      <guid>https://raghavmits.github.io/portf/tags/process-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer-systems</title>
+      <link>https://raghavmits.github.io/portf/tags/computer-systems/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://raghavmits.github.io/portf/tags/computer-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>https://raghavmits.github.io/portf/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://raghavmits.github.io/portf/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+  </channel>
+</rss>
