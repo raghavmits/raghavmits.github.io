@@ -1,42 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Raghav Mittal</title>
-    <link>https://raghavmits.github.io/portf/home/</link>
-    <description>Recent content in Homes on Raghav Mittal</description>
+    <title>Homes on Abhishek Verma</title>
+    <link>https://abhi608.github.io/home/</link>
+    <description>Recent content in Homes on Abhishek Verma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Raghav Mittal</copyright>
-    <lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2017 Abhishek Verma</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://raghavmits.github.io/portf/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://abhi608.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://raghavmits.github.io/portf/home/about/</link>
-      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <link>https://abhi608.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://raghavmits.github.io/portf/home/about/</guid>
-      <description>Biography I am an Associate Consultant with M.N. Dastur &amp;amp; Co. in the Energy and Process Metallurgy division since 2018. I have worked on projects in Sustainability and Operations Improvement for some of the leading players in the Iron &amp;amp; Steel and Oil &amp;amp; Gas industries. Parallelly, I have been developing predictive models aimed at enhancing process control by leveraging machine learning techniques.
-Over the last two years, Dastur Energy has prioritized sustainability as the bedrock of new initiatives.</description>
+      <guid>https://abhi608.github.io/home/about/</guid>
+      <description>Biography I am a fresh graduate from the department of Computer Science and Engineering, IIT Kanpur who is currently working as a software developer in VISA, Bengaluru. During my time as an undergraduate, I worked on various projects in the fields of Machine Learning, Cyber Security and Computer Systems. Along with this, I have spent a summer as an intern at VISA. Some other startups which I have worked before are, namely Sharechat and Elanic.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://raghavmits.github.io/portf/home/projects/</link>
+      <link>https://abhi608.github.io/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://raghavmits.github.io/portf/home/projects/</guid>
+      <guid>https://abhi608.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://raghavmits.github.io/portf/home/contact/</link>
-      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <link>https://abhi608.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://raghavmits.github.io/portf/home/contact/</guid>
+      <guid>https://abhi608.github.io/home/contact/</guid>
       <description></description>
     </item>
     

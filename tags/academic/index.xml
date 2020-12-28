@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Content tagged as &#39;Academic&#39; on Raghav Mittal</title>
-    <link>https://raghavmits.github.io/portf/tags/academic/</link>
-    <description>Recent content in Content tagged as &#39;Academic&#39; on Raghav Mittal</description>
+    <title>Content tagged as &#39;Academic&#39; on Abhishek Verma</title>
+    <link>https://abhi608.github.io/tags/academic/</link>
+    <description>Recent content in Content tagged as &#39;Academic&#39; on Abhishek Verma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Raghav Mittal</copyright>
+    <copyright>&amp;copy; 2017 Abhishek Verma</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://raghavmits.github.io/portf/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://abhi608.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting started with the Academic framework for Hugo</title>
+      <link>https://abhi608.github.io/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/post/getting-started/</guid>
+      <description>Create a beautifully simple personal or academic website in under 10 minutes.</description>
+    </item>
+    
+    <item>
+      <title>Customizing the homepage with widgets</title>
+      <link>https://abhi608.github.io/post/widgets/</link>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/post/widgets/</guid>
+      <description>Enable/disable and configure widgets to customize your homepage.</description>
+    </item>
+    
+    <item>
+      <title>Managing content</title>
+      <link>https://abhi608.github.io/post/managing-content/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/post/managing-content/</guid>
+      <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://abhi608.github.io/post/writing-markdown-latex/&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>

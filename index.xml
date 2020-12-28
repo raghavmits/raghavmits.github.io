@@ -1,38 +1,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Raghav Mittal on Raghav Mittal</title>
-    <link>https://raghavmits.github.io/portf/</link>
-    <description>Recent content in Raghav Mittal on Raghav Mittal</description>
+    <title>Abhishek Verma on Abhishek Verma</title>
+    <link>https://abhi608.github.io/</link>
+    <description>Recent content in Abhishek Verma on Abhishek Verma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Raghav Mittal</copyright>
-    <lastBuildDate>Thu, 17 Dec 2020 18:06:49 +0530</lastBuildDate>
-    <atom:link href="/portf/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2017 Abhishek Verma</copyright>
+    <lastBuildDate>Sun, 17 Dec 2017 18:06:49 +0530</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Projects</title>
-      <link>https://raghavmits.github.io/portf/project/</link>
-      <pubDate>Thu, 17 Dec 2020 18:06:49 +0530</pubDate>
+      <link>https://abhi608.github.io/project/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
-      <guid>https://raghavmits.github.io/portf/project/</guid>
+      <guid>https://abhi608.github.io/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://raghavmits.github.io/portf/publication/</link>
+      <link>https://abhi608.github.io/publication/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://raghavmits.github.io/portf/publication/</guid>
+      <guid>https://abhi608.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://raghavmits.github.io/portf/talk/</link>
+      <link>https://abhi608.github.io/talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://raghavmits.github.io/portf/talk/</guid>
+      <guid>https://abhi608.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://abhi608.github.io/post/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/post/</guid>
       <description></description>
     </item>
     

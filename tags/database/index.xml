@@ -1,26 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>database on Raghav Mittal</title>
-    <link>https://raghavmits.github.io/portf/tags/database/</link>
-    <description>Recent content in database on Raghav Mittal</description>
+    <title>database on Abhishek Verma</title>
+    <link>https://abhi608.github.io/tags/database/</link>
+    <description>Recent content in database on Abhishek Verma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Raghav Mittal</copyright>
-    <lastBuildDate>Thu, 17 Dec 2020 18:06:49 +0530</lastBuildDate>
+    <copyright>&amp;copy; 2017 Abhishek Verma</copyright>
+    <lastBuildDate>Sun, 17 Dec 2017 18:06:49 +0530</lastBuildDate>
     
-	<atom:link href="https://raghavmits.github.io/portf/tags/database/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://abhi608.github.io/tags/database/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>BF Thermal State Index</title>
-      <link>https://raghavmits.github.io/portf/project/tsi/</link>
-      <pubDate>Thu, 17 Dec 2020 18:06:49 +0530</pubDate>
+      <title>Blockchain based Smart Transaction Platform</title>
+      <link>https://abhi608.github.io/project/transaction/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
       
-      <guid>https://raghavmits.github.io/portf/project/tsi/</guid>
-      <description>Mentor: Dr. Saikat Chatterjee and Dr. Anand Senguttavan, Dastur Energy &amp;amp; Process Metallurgy
-Stretch: Oct&amp;rsquo;19 - Feb&amp;rsquo;20
-A dynamic model has been developed for online assessment of the thermal state of a Blast Furnace. Advanced statistical techniques such as Canonical Correlation, Principal Component Analysis, and Bootstrapping were used for analyzing a dataset from an Integrated Steel Plant. The idea was to come up with a tool to assist operators in ensuring better thermal stability of a Blast Furnace.</description>
+      <guid>https://abhi608.github.io/project/transaction/</guid>
+      <description>Build a transaction platform using MultiChain</description>
+    </item>
+    
+    <item>
+      <title>Blockchain Technology</title>
+      <link>https://abhi608.github.io/project/blockchain/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/blockchain/</guid>
+      <description>Research work and case studies on various aspects of blockchains</description>
+    </item>
+    
+    <item>
+      <title>Railway Enquiry System</title>
+      <link>https://abhi608.github.io/project/railway/</link>
+      <pubDate>Sun, 17 Dec 2017 18:06:49 +0530</pubDate>
+      
+      <guid>https://abhi608.github.io/project/railway/</guid>
+      <description>Implemented a platform for Indian railway queries using graph based database - Neo4j</description>
     </item>
     
   </channel>
